@@ -1,3 +1,13 @@
+<!-- The badges -->
+<p align="center">
+    <a href="https://pypi.org/project/dtwinpy/">
+        <img alt="PyPI" src="https://img.shields.io/badge/pypi%20package-dtwinpy%200.1.0.0-blue">
+    </a>
+</p>
+
+<!-- Draw horizontal rule -->
+<hr>
+
 # DtwinPy-Paper-WSC2023-RCT
 This repository keeps all the data used for the article: "Demonstration of a complete simulation-based digital twin for decision making in manufacturing systems" published in the Winter Simulation Conference 2023.
 
